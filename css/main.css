@@ -95,7 +95,7 @@ span{
     bottom: 40px;
 }
 
-.images:hover .girl{
+.images:hover .boy{
     left: 45%;
 }
 
@@ -116,7 +116,7 @@ span{
 .shape{
     border-radius: 50px;
 }
-.girl{
+.boy{
     border-radius: 50% ;
 }
             
