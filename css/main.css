@@ -101,11 +101,13 @@ span{
 }
 
 .images:hover .shape{
-    bottom: 40px;
+    bottom: 80px;
+    transition: 1s ease;
 }
 
 .images:hover .boy{
-    left: 45%;
+    margin-bottom: 20px;
+    transition: 1s ease;
 }
 
 .social{
