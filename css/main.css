@@ -106,8 +106,11 @@ span{
     /* transform: scale(0.9); */
 }
 
+.boy{
+    border-radius: 150% ;
+}
 .images:hover .boy{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
     transition: 1s ease;
     transform: scale(0.8);
 }
@@ -133,9 +136,6 @@ span{
 }
 .shape{
     border-radius: 50px;
-}
-.boy{
-    border-radius: 50% ;
 }
 .title{
     position: relative;
