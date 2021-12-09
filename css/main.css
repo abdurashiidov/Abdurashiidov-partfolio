@@ -121,6 +121,7 @@ span{
 
 .social a:hover{
     color: orange;
+    border: 1px solid red;
 }
 .shape{
     border-radius: 50px;
