@@ -103,13 +103,13 @@ span{
 .images:hover .shape{
     bottom: 80px;
     transition: 1s ease;
-    transform: scale(0.9);
+    /* transform: scale(0.9); */
 }
 
 .images:hover .boy{
     margin-bottom: 20px;
     transition: 1s ease;
-    transform: scale(0.7);
+    transform: scale(0.8);
 }
 
 .social{
