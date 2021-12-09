@@ -108,13 +108,11 @@ span{
 
 .boy{
     border-radius: 150% ;
-    width: 400px;
-    height: 200px;
 }
 .images:hover .boy{
     margin-bottom: 50px;
     transition: 1s ease;
-    transform: scale(0.8);
+    transform: scale(1.1);
 }
 
 .social{
