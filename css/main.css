@@ -108,6 +108,8 @@ span{
 
 .boy{
     border-radius: 150% ;
+    width: 200px;
+    height: 200px;
 }
 .images:hover .boy{
     margin-bottom: 50px;
